@@ -1,3 +1,5 @@
 This line was edited in feature-2 branch
 
-This file was modified manually in feature-2 branch
+This file was modified manually in feature-2 branch 
+
+And one more change
